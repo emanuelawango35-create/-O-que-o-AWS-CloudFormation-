@@ -1,4 +1,4 @@
-# -O-que-o-AWS-CloudFormation-
+# 🧱 O que é o AWS CloudFormation?
 Implementar uma infraestrutura automatizada com AWS CloudFormation é uma prática essencial para equipes que desejam escalar com segurança, agilidade e controle
 O AWS CloudFormation é um serviço que permite criar e gerenciar recursos da AWS por meio de arquivos de configuração, geralmente escritos em YAML ou JSON. Ele segue o conceito de Infraestrutura como Código (IaC), permitindo que você defina toda a arquitetura de forma declarativa.
 
